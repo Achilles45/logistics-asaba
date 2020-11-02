@@ -15,7 +15,7 @@
           <h6><i class="fa fa-home"></i>&nbsp; Corporate Office</h6>
           <p>Dubia Creek, AI Seef District</p><br>
           <h6><i class="fa fa-envelope"></i>&nbsp; Support Mail</h6>
-           <p><a href="mailto:worldglobalexpressx6@yahoo.com" class="">worldglobalexpressx6@yahoo.com</a></p><br>
+           <p><a href="mailto: support@worldcargoexpresscourier.com" class=""> support@worldcargoexpresscourier.com</a></p><br>
         </div>
         <div class="col-md-5">
           <form @submit.prevent="sendMessage()">

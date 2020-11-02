@@ -10,7 +10,7 @@
             the world.
           </p> <br>
           <h6>For enquiries, send mails to</h6>
-            <a href="mailto:worldglobalexpressx6@yahoo.com">worldglobalexpressx6@yahoo.com</a>
+            <a href="mailto: support@worldcargoexpresscourier.com"> support@worldcargoexpresscourier.com</a>
           <h6>You can also contact us at</h6>
           <p>Dubia Creek, AI Seef District</p>
         </div>
