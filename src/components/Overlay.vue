@@ -4,7 +4,7 @@
           <div class="content">
               <div>
                   <h2>Page Not Available</h2>
-              <p>Oops! It seems like the page or website you requested is currently not available. Either a domain name has expired or the website has been disabled. Please contact your hosting providers. Sorry for any hitch in service.</p>
+              <p>Oops! It seems like the page or website you requested foes not exist.</p>
               </div>
           </div>
       </div>
